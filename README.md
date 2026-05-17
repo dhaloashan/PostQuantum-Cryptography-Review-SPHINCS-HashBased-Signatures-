@@ -1,10 +1,8 @@
-<h1>SPHINCS+ Post-Quantum Cryptography Review</h1>
-
-<h2>Scientific Review Paper on Stateless Hash-Based Post-Quantum Signatures</h2>
+<h1>Scientific Review Paper on Stateless Hash-Based Post-Quantum Signatures</h1>
 
 <p>
   This repository contains a scientific review paper I worked on with my teammates
-  as part of an academic cryptography and cybersecurity assignment. The paper focuses
+  as part of our Applied Cryptographic Course. The paper focuses
   on <strong>SPHINCS+</strong>, a stateless hash-based post-quantum digital signature
   algorithm designed to resist attacks from future quantum computers.
 </p>
@@ -19,16 +17,49 @@
   vulnerable to quantum attacks. In this paper, we reviewed SPHINCS+ as a
   post-quantum signature scheme that relies on cryptographic hash functions instead
   of algebraic assumptions.
-</p>
-
-<p>
   The review explains the main components of SPHINCS+, its security properties,
   performance trade-offs, parameter sets, and improvements over the original SPHINCS
   algorithm.
 </p>
 
 <hr>
+<h2>📄 Paper Information</h2>
 
+<table>
+  <tr>
+    <td><strong>Title</strong></td>
+    <td>SPHINCS+: A Stateless Hash-Based Post-Quantum Cryptographic Algorithm</td>
+  </tr>
+  <tr>
+    <td><strong>Type</strong></td>
+    <td>Scientific Review Paper</td>
+  </tr>
+  <tr>
+    <td><strong>Topic</strong></td>
+    <td>Post-Quantum Cryptography</td>
+  </tr>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>Hash-Based Digital Signatures</td>
+  </tr>
+  <tr>
+    <td><strong>Course Area</strong></td>
+    <td>Cryptography / Cybersecurity</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>👥 Contributors</h2>
+
+<ul>
+  <li>Tiemar Berhe</li>
+  <li>Xhelion Dedelli</li>
+  <li>Anna Ivanytska</li>
+  <li>Assan Jallow</li>
+  <li>Sarah Sumrall</li>
+</ul>
+<hr>
 <h2>🔬 Topics Covered</h2>
 
 <h3>SPHINCS+ Components</h3>
@@ -79,28 +110,6 @@
 
 <hr>
 
-<h2>📂 Repository Structure</h2>
-
-<pre>
-SPHINCS-PostQuantum-Review/
-│
-├── README.md
-├── paper/
-│   └── SPHINCS_Plus_Review_Paper.pdf
-├── images/
-│   ├── sphincs-diagram.png
-│   ├── hypertree-structure.png
-│   └── parameter-analysis.png
-├── docs/
-│   ├── security-analysis.md
-│   ├── performance-analysis.md
-│   └── references.md
-└── presentation/
-    └── SPHINCS_Presentation.pptx
-</pre>
-
-<hr>
-
 <h2>🚀 What I Learned</h2>
 
 <ul>
@@ -126,42 +135,6 @@ SPHINCS-PostQuantum-Review/
 
 <hr>
 
-<h2>📄 Paper Information</h2>
-
-<table>
-  <tr>
-    <td><strong>Title</strong></td>
-    <td>SPHINCS+: A Stateless Hash-Based Post-Quantum Cryptographic Algorithm</td>
-  </tr>
-  <tr>
-    <td><strong>Type</strong></td>
-    <td>Scientific Review Paper</td>
-  </tr>
-  <tr>
-    <td><strong>Topic</strong></td>
-    <td>Post-Quantum Cryptography</td>
-  </tr>
-  <tr>
-    <td><strong>Focus</strong></td>
-    <td>Hash-Based Digital Signatures</td>
-  </tr>
-  <tr>
-    <td><strong>Course Area</strong></td>
-    <td>Cryptography / Cybersecurity</td>
-  </tr>
-</table>
-
-<hr>
-
-<h2>👥 Contributors</h2>
-
-<ul>
-  <li>Tiemar Berhe</li>
-  <li>Xhelion Dedelli</li>
-  <li>Anna Ivanytska</li>
-  <li>Assan Jallow</li>
-  <li>Sarah Sumrall</li>
-</ul>
 
 <hr>
 
